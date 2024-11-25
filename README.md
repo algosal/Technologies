@@ -25,6 +25,7 @@ This section covers technologies for both **frontend** and **backend** developme
     - Node.js: Express, Fastify
     - Python: FastAPI, Flask, Django
     - PHP: Lumen, Laravel
+    - .NET (ASP.NET, .NET Core)
   - **API Development**:
     - RESTful APIs, GraphQL APIs
     - Lightweight API frameworks (Lumen, Express, FastAPI) for microservices
